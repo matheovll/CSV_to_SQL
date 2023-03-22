@@ -1,7 +1,7 @@
 import csv
 import unidecode
 
-# MATHEO VALLEE - 22/03/2023
+# MATHEO - 22/03/2023
 # Create SQL table filling script from a CSV file
 # By giving a CSV file with the data and the table name in the first line
 # The script will create an SQL file with data insertion requests
